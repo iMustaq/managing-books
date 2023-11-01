@@ -6,7 +6,7 @@ Here mongoDb is used for the data-base locally so system must have the mongoDB i
 
 <!-- HOW TO RUN -->
 1. run - npm i              (to install dependency)
-2. run - npm run book       (to run the server)
+2. run - npm run books       (to run the server)
 
 <!-- API END-POINTS -->
 

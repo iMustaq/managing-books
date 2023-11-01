@@ -4,7 +4,7 @@
   "description": "Demo project.",
   "main": "index.js",
   "scripts": {
-    "book": "nodemon index.js"
+    "books": "nodemon index.js"
   },
   "repository": {
     "type": "git",
